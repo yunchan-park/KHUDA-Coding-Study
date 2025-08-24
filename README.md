@@ -40,7 +40,7 @@
 ### 🔥 KHUDA 8th 쿠스쿠스 🔥
 
 <table><tr>                 
-<td align="center" width="140px" height="200px"><a href="https://github.com/yunchan-park"><img src="https://avatars.githubusercontent.com/u/194897454?v=4?s=100" width="140px;" alt=""/>         <br /><sub><b>yunchan-park</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/7"/></sub></a><br /></td>
+<td align="center" width="140px" height="200px"><a href="https://github.com/yunchan-park"><img src="https://avatars.githubusercontent.com/u/194897454?v=4?s=100" width="140px;" alt=""/>         <br /><sub><b>yunchan-park</b><br><img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/></sub></a><br /></td>
 </table><br />
 
 <br />
